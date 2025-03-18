@@ -7,6 +7,12 @@ function Products(){
         {id:4,name:"Product 4",price:60},
         {id:5,name:"Product 5",price:70},
         {id:6,name:"Product 6",price:80},
+        {id:2,name:"Product 7",price:30},
+        {id:2,name:"Product 8",price:30},
+        {id:2,name:"Product 9",price:30},
+        {id:2,name:"Product 10",price:30},
+    
+
     ];
     return(<div>
             
